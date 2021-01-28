@@ -1,2 +1,2 @@
 # Simple-snake-game
-I hape every one liked it.
+I hope every one liked it.
